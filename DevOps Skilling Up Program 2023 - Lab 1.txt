@@ -87,9 +87,3 @@ Hints
 * Use getopts command
 * Use stat command
 * You can use awk command to parse text
-
-
-Instructions to submit your project
-1. Create a public repository (we suggest using GitHub)
-2. Submit your repository in this form
-3. Deadline date: Jun 20, 202312 pm MST
